@@ -1,9 +1,9 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace EZCameraShake
+namespace CameraShake
 {
-    [AddComponentMenu("EZ Camera Shake/Camera Shaker")]
+    [AddComponentMenu("Camera Shake/Camera Shaker")]
     public class CameraShaker : MonoBehaviour
     {
         /// <summary>

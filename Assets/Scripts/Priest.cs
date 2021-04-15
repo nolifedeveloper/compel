@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using EZCameraShake;
+using CameraShake;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class Priest : MonoBehaviour

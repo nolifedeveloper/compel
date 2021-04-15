@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace EZCameraShake
+namespace CameraShake
 {
     public class CameraUtilities
     {

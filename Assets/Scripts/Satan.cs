@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-using EZCameraShake;
+using CameraShake;
 using UnityEngine.SceneManagement;
 
 public class Satan : MonoBehaviour

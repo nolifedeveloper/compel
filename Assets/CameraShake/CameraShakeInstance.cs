@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace EZCameraShake
+namespace CameraShake
 {
     public enum CameraShakeState { FadingIn, FadingOut, Sustained, Inactive }
 
